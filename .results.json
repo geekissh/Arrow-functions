@@ -1,0 +1,102 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 6,
+    "passes": 6,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-12-15T07:51:31.516Z",
+    "end": "2023-12-15T07:51:40.988Z",
+    "duration": 9472
+  },
+  "tests": [
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "divide divides 2000 by 100",
+      "fullTitle": "index.js divide divides 2000 by 100",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has an arrow function called square",
+      "fullTitle": "index.js has an arrow function called square",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "square arrow function takes one parameter and multiplies it times itself",
+      "fullTitle": "index.js square arrow function takes one parameter and multiplies it times itself",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has an arrow function called add",
+      "fullTitle": "index.js has an arrow function called add",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "add arrow function takes two parameters and adds them together",
+      "fullTitle": "index.js add arrow function takes two parameters and adds them together",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "has a function expression called divide",
+      "fullTitle": "index.js has a function expression called divide",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "divide divides 2000 by 100",
+      "fullTitle": "index.js divide divides 2000 by 100",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has an arrow function called square",
+      "fullTitle": "index.js has an arrow function called square",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "square arrow function takes one parameter and multiplies it times itself",
+      "fullTitle": "index.js square arrow function takes one parameter and multiplies it times itself",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "has an arrow function called add",
+      "fullTitle": "index.js has an arrow function called add",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "add arrow function takes two parameters and adds them together",
+      "fullTitle": "index.js add arrow function takes two parameters and adds them together",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
